@@ -1,4 +1,4 @@
-V# 📊 Open Source Audit Project – Git
+ 📊 Open Source Audit Project – Git
 
 ## 📌 Overview
 This project is an audit of the open-source software **Git**, a distributed version control system. The project explores Git’s features, license, philosophy, and impact, along with practical Linux shell scripting.
